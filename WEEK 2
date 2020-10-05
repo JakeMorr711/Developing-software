@@ -8,7 +8,7 @@ public class interactive
 	public static void main(String[] args)
 	{
 		
-		Scanner kboard = new Scanner(System.in);
+	Scanner kboard = new Scanner(System.in);
  
 	System.out.println("Please enter your forename?");
 	kboard.nextInt();
