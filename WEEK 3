@@ -7,16 +7,16 @@ public class express {
 	
 public static void main (String[] args)
 {
-		int x = 10; 
-		int y = 4; 
-		{
-		x = x * 5;
-		{
+  int x = 10; 
+  int y = 4; 
+{
+  x = x * 5;
+{
 			
-		}
-		System.out.println ("Value of x is "+x);
-		System.out.println("Value of x is "+(x+y));
-		System.out.println("Value of x is "+x);}
+}
+  System.out.println ("Value of x is "+x);
+  System.out.println("Value of x is "+(x+y));
+  System.out.println("Value of x is "+x);}
 }
 }	
 		
