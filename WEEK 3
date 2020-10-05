@@ -1,0 +1,22 @@
+/** 
+*(((x + 3)*(y-5))+(s*s)) 
+*Would be done like "X+3 times Y-5" then "S times S" then add both results together.
+*/
+
+public class express {
+	
+public static void main (String[] args)
+{
+		int x = 10; 
+		int y = 4; 
+		{
+		x = x * 5;
+		{
+			
+		}
+		System.out.println ("Value of x is "+x);
+		System.out.println("Value of x is "+(x+y));
+		System.out.println("Value of x is "+x);}
+}
+}	
+		
