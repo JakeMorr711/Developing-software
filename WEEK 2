@@ -1,0 +1,21 @@
+ 
+WEEK 2 :
+package InteractiveProgram;
+import java.util.Scanner; 
+public class interactive 
+{
+
+	public static void main(String[] args)
+	{
+		
+		Scanner kboard = new Scanner(System.in);
+ 
+	System.out.println("Please enter your forename?");
+	kboard.nextInt();
+	String forename = null;
+	System.out.println(" "+forename+" ");
+ 	kboard.close();
+	}
+
+}
+		 
