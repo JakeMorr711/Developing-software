@@ -1,5 +1,4 @@
- 
-WEEK 2 :
+
 package InteractiveProgram;
 import java.util.Scanner; 
 public class interactive 
